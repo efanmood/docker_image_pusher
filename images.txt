@@ -1,4 +1,4 @@
 # 稳定版，经过测试推荐使用
 1186258278/openclaw-zh:latest
-# 每小时同步上游最新代码
-1186258278/openclaw-zh:nightly
+# 当前镜像基于Debian GNU/Linux构建（因musl相关兼容性问题暂未使用Alpine）
+alpine/openclaw:latest

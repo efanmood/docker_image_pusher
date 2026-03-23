@@ -2,3 +2,5 @@
 1186258278/openclaw-zh:latest
 # 当前镜像基于Debian GNU/Linux构建（因musl相关兼容性问题暂未使用Alpine）
 alpine/openclaw:latest
+# docker pull agentscope/copaw:latest
+agentscope/copaw:latest
